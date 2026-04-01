@@ -4,27 +4,19 @@ Imprenditore digitale, fondatore di [Sansalia SRL](https://lucianolamonica.eu). 
 
 ## Background
 
-Ho lavorato in Nexi, UniCredit, Reply e Beije su sistemi di pagamento, infrastrutture bancarie e consulenza tech. Oggi sviluppo soluzioni AI applicate e aiuto le PMI a usare il digitale concretamente.
+Sono partito come sviluppatore frontend, passando per Reply, Nexi e Beije Consulting — dove ho lavorato su sistemi di pagamento, infrastrutture bancarie e progetti enterprise. Col tempo il mio focus si è spostato verso il backend, l'infrastruttura cloud e l'intelligenza artificiale applicata.
 
-## Cosa costruisco
-
-- Agenti AI verticali per e-commerce e gestione clienti
-- Automazioni e workflow con n8n e Claude API
-- Portali web con Laravel + Filament
-- Pipeline dati con Python (Scrapy, FastAPI)
-- Tool interni per produttività e finanza personale
-- Infrastruttura Docker su VPS per i miei clienti
+Oggi con Sansalia sviluppo soluzioni AI per PMI, gestisco infrastrutture server e aiuto le aziende a capire e usare il digitale in modo concreto.
 
 ## Stack
 
+**Frontend:** React, Next.js, Angular, Astro, Tailwind CSS, Redux
 **Backend:** PHP/Laravel, Python, FastAPI, Node.js
-**Frontend:** React, Next.js, Astro, Tailwind CSS
-**AI:** Claude API, Gemini API, LLM integration, prompt engineering
-**CMS:** WordPress/WooCommerce, Filament (Laravel)
-**Infra:** Docker, Nginx, VPS (Contabo), CloudFlare, GCP
-**Automazioni:** n8n, Scrapy, custom pipelines
-**CI/CD:** GitLab CI, GitHub Actions
-**Domotica:** Home Assistant, Raspberry Pi, Victron BLE, Matter
+**AI & Automation:** Claude API, Gemini API, LLM integration, n8n, Scrapy
+**CMS:** WordPress/WooCommerce, Laravel Filament
+**Infra:** Docker, Nginx, VPS management, CloudFlare, GCP, DNS, server administration
+**IoT:** Home Assistant, Raspberry Pi, Victron BLE, Matter
+**Practices:** Scrum, CI/CD (GitLab CI, GitHub Actions), UX
 
 ## Progetti pubblici
 
