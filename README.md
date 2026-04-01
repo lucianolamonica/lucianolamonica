@@ -4,7 +4,7 @@ Imprenditore digitale, fondatore di [Sansalia SRL](https://lucianolamonica.eu). 
 
 ## Background
 
-Sono partito come sviluppatore frontend, passando per Reply, Nexi e Beije Consulting — dove ho lavorato su sistemi di pagamento, infrastrutture bancarie e progetti enterprise. Col tempo il mio focus si è spostato verso il backend, l'infrastruttura cloud e l'intelligenza artificiale applicata.
+Sono partito come sviluppatore frontend. Con Beije Consulting ho lavorato su progetti per Nexi, UniCredit, Reply e Intesa Sanpaolo — sistemi di pagamento, infrastrutture bancarie, progetti enterprise. Col tempo il mio focus si è spostato verso il backend, l'infrastruttura cloud e l'intelligenza artificiale applicata.
 
 Oggi con Sansalia sviluppo soluzioni AI per PMI, gestisco infrastrutture server e aiuto le aziende a capire e usare il digitale in modo concreto.
 
